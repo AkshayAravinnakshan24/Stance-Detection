@@ -11,7 +11,7 @@ Step 1. Open anaconda prompt and deactivate the activate environment using
 ```python
 conda deactivate 
 ```
-Step 2. Navigate to the downloaded ‘EnvironmentImportFile.yml’ file in the prompt.
+Step 2. Navigate to the downloaded **‘EnvironmentImportFile.yml’** file in the prompt.
 
 Step 3. Run the command below with suitable environment name 
 
